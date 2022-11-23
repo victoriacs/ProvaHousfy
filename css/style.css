@@ -1,0 +1,21 @@
+@import url("http://fonts.googleapis.com/css?family=Oswald:400,300,700");
+
+body {
+  font-family: 'Oswald', sans-serif !important;
+}
+#area {
+  position: relative;
+  background: #554656;
+  border: 2px solid #322838;
+  width: 200px;
+  height: 200px;
+}
+
+#nau {
+  position: absolute;
+}
+
+input {
+  background: none;
+  border: none;
+}
